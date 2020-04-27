@@ -43,3 +43,6 @@
 - name: Rubix
   difficulty: 2
   link: ./rubix
+- name: Alchemist
+  difficulty: 3
+  link: ./alchemist
