@@ -40,3 +40,6 @@
 - name: Rainbows
   difficulty: 3
   link: ./rainbows
+- name: Rubix
+  difficulty: 2
+  link: ./rubix
