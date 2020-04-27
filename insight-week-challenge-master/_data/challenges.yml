@@ -37,3 +37,6 @@
 - name: Elementary
   difficulty: 2
   link: ./elementary
+- name: Rainbows
+  difficulty: 3
+  link: ./rainbows
