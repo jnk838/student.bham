@@ -1,0 +1,39 @@
+- name: Welcome
+  difficulty: 1
+  link: ./welcome
+- name: Hidden
+  difficulty: 1
+  link: ./hidden
+- name: Password
+  difficulty: 2
+  link: ./password
+- name: Silly String
+  difficulty: 1
+  link: ./silly-string
+- name: Gone Fishing
+  difficulty: 2
+  link: ./gone-fishing
+- name: Landmark
+  difficulty: 3
+  link: ./landmark
+- name: Call Me
+  difficulty: 2
+  link: ./call-me
+- name: A Bit Tipsy
+  difficulty: 1
+  link: ./tipsy
+- name: Principles
+  difficulty: 2
+  link: ./principles
+- name: Can't Hack It
+  difficulty: 3
+  link: ./hack-it
+- name: To Infinity and Beyond
+  difficulty: 1
+  link: ./to-infinity-and-beyond
+- name: Fatal
+  difficulty: 1
+  link: ./fatal
+- name: Elementary
+  difficulty: 2
+  link: ./elementary
